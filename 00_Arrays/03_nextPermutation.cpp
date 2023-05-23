@@ -52,7 +52,7 @@
             }
         }
 
-        reverse(nums.begin() + index+1 , nums.end());       //reverse elements after breakpoint
+        reverse(nums.begin()+index+1 , nums.end());       //reverse elements after breakpoint
         return;
         
     }
