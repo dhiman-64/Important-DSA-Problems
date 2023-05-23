@@ -1,6 +1,6 @@
 /*
 
-                //Brute Force Approach
+                // Brute Force Approach
                 TC - N^2
                 SC - 1
 
